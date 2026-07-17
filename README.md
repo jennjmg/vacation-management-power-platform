@@ -30,6 +30,31 @@ This solution centralizes the entire process into a single digital workflow, imp
 
 ---
 
+## Challenges & Solutions
+
+### Challenge 1: Data Model Relationships
+
+The employee and vacation request datasets contained attributes that could create cardinality issues between tables.
+
+**Solution:**
+A supporting dimension table (DimEmpleados) was created to normalize employee attributes and establish stable one-to-many relationships.
+
+### Challenge 2: Process Visibility
+
+Managers and HR teams lacked a centralized view of vacation requests and approval status.
+
+**Solution:**
+Interactive Power BI dashboards were developed to monitor requests, vacation trends, approval rates, and departmental activity.
+
+### Challenge 3: Manual Communication
+
+The approval process depended on manual follow-up and email communication.
+
+**Solution:**
+Power Automate workflows were implemented to notify employees, managers, and HR stakeholders automatically throughout the process.
+
+---
+
 ## Solution Architecture
 
 ```text
