@@ -53,6 +53,19 @@ The approval process depended on manual follow-up and email communication.
 **Solution:**
 Power Automate workflows were implemented to notify employees, managers, and HR stakeholders automatically throughout the process.
 
+## Key Learnings
+
+Through this project I strengthened my skills in:
+
+- Power BI data modeling
+- DAX measure development
+- Power Apps design and development
+- SharePoint integration
+- Power Automate workflow automation
+- Business process analysis
+- HR analytics and reporting
+- Requirements gathering and solution design
+- 
 ---
 
 ## Solution Architecture
