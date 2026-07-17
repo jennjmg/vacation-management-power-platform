@@ -48,6 +48,24 @@ Notifications & Approvals
 HR & Managers
 ```
 
+## Dashboard Preview
+
+### Vacation Requests Analysis
+
+screenshots/dashboard-page-1.png
+
+and
+
+screenshots/dashboard-page-1.1.png
+
+### Approval Process Monitoring
+
+screenshots/dashboard-page-2.png
+
+and
+
+screenshots/dashboard-page-2.1.png
+
 ---
 
 ## Main Features
