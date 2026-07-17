@@ -1,3 +1,9 @@
-# Screenshots
+## Dashboard Preview
 
-This folder contains screenshots of the Power BI dashboard and Power Apps solution.
+### Vacation Requests Analysis
+
+screenshots/dashboard-page-1.png
+
+### Approval Process Monitoring
+
+screenshots/dashboard-page-2.png
